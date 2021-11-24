@@ -2,9 +2,10 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"objToCat": "01_FirstDemoIntro.ipynb"}
 
-modules = ["Draft.py"]
+modules = ["Draft.py",
+           "First_Page.py"]
 
 doc_url = "https://mkarimi21.github.io/MCI_Project_Part01/"
 
