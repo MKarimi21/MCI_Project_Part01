@@ -38,7 +38,7 @@ sidebar: home_sidebar
 </p>
 
   
-<a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://github.com/MKarimi21/MKarimi21/blob/master/metrics-leftside.svg" align="left" width="47.5%"></img></a><a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://github.com/MKarimi21/MKarimi21/blob/master/metrics-rightside.svg" align="right" width="47.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-leftside.svg" align="left" width="47.5%"></img></a><a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-rightside.svg" align="right" width="47.5%"></img></a>
 
 <br>
 <br>
