@@ -12,6 +12,9 @@ entries:
     - output: web,pdf
       title: This Page is Draft
       url: core.html
+    - output: web,pdf
+      title: Golden Prediction Classifier
+      url: FirstDemoIntro.html
     output: web
     title: MCI_Project_Part01
   output: web
