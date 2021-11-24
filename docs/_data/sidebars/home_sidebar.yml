@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: Title
+      title: This Page is Draft
       url: core.html
     output: web
     title: MCI_Project_Part01
