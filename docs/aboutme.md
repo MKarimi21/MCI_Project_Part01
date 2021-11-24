@@ -28,18 +28,14 @@ sidebar: home_sidebar
 
 <p class="text-justify" align="left">
 
-  I am an MSc in systems optimization and my skill in the field of Machine Learning engineering and Planning and Project Control. I have recently entered Deep Learning engineering and I am interested in working professionally in this field and make business intelligence or etc.
+I am an MSc in systems optimization and my skill in the field of Machine Learning engineering and Planning and Project Control. I have recently entered Deep Learning engineering and I am interested in working professionally in this field and make business intelligence or etc.
 <br>
-  I'm Skilled in Python, MS Power BI and Tableau, MS Project and Excel, and COMFAR.
+I'm Skilled in Python, MS Power BI and Tableau, MS Project and Excel, and COMFAR.
 <br>
-  And I love to learn CEH, Cryptography, Open Source Society and Sociology. 🙂
-
-
+And I love to learn CEH, Cryptography, Open Source Society and Sociology. 🙂
 </p>
 
-<div>  
-  <a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-leftside.svg" align="left" width="40%" /></a><a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-rightside.svg" align="right" width="40%" /></a>
-</div>
+<pre align='center'><a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-leftside.svg" align="left" width="40%" /></a><a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-rightside.svg" align="right" width="40%" /></a></pre>
 
 <br>
 <br>
