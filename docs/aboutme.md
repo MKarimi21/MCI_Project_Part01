@@ -35,7 +35,10 @@ I'm Skilled in Python, MS Power BI and Tableau, MS Project and Excel, and COMFAR
 And I love to learn CEH, Cryptography, Open Source Society and Sociology. 🙂
 </p>
 
-<pre align='center'><a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-leftside.svg" align="left" width="40%" /></a><a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-rightside.svg" align="right" width="40%" /></a></pre>
+<br>
+<br>
+
+<pre align='center'><a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-leftside.svg" align="left" width="25%" /></a><a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-rightside.svg" align="right" width="25%" /></a></pre>
 
 <br>
 <br>
