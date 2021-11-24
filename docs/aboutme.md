@@ -14,7 +14,7 @@ sidebar: home_sidebar
     <img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=Black&facialHairType=BeardLight&facialHairColor=Black&clotheType=Hoodie&clotheColor=Black&eyeType=Wink&eyebrowType=Default&mouthType=Smile&skinColor=Light' width="120" height="120">
   </a>
 </p>
-<h3 align="center">Hi, I'm Mostafa Karimi &nbsp; <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="35px"></h3> 
+<h3 align="center">Hi, I'm Mostafa Karimi ✌🏻👋🏻</h3> 
 
 <br>
 
@@ -29,16 +29,16 @@ sidebar: home_sidebar
 <p class="text-justify" align="left">
 
   I am an MSc in systems optimization and my skill in the field of Machine Learning engineering and Planning and Project Control. I have recently entered Deep Learning engineering and I am interested in working professionally in this field and make business intelligence or etc.
-  <br>
+<br>
   I'm Skilled in Python, MS Power BI and Tableau, MS Project and Excel, and COMFAR.
-  <br>
+<br>
   And I love to learn CEH, Cryptography, Open Source Society and Sociology. 🙂
 
 
 </p>
 
   
-<a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-leftside.svg" align="left" width="47.5%"></img></a><a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-rightside.svg" align="right" width="47.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-leftside.svg" align="left" width="47.5%" /></a><a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-rightside.svg" align="right" width="47.5%" /></a>
 
 <br>
 <br>
