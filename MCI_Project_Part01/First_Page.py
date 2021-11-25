@@ -13,12 +13,14 @@ def objToCat(df):
     '''
     This function make objective column to categories and replace with int8 code
 
+    ``` python
     >>> dataframe.info()
     >>> i Name_Column Len Dtype: object
     ...
     >>> objToCat(dataframe)
     >>> dataframe.info()
     >>> i Name_Column Len Dtype: int8
+    ```
     '''
 
 
