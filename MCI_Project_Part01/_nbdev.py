@@ -2,7 +2,8 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"objToCat": "01_FirstDemoIntro.ipynb"}
+index = {"objToCat": "01_FirstDemoIntro.ipynb",
+         "sampleDF": "01_FirstDemoIntro.ipynb"}
 
 modules = ["Draft.py",
            "First_Page.py"]
