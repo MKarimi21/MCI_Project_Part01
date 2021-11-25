@@ -14,6 +14,8 @@ def objToCat(df):
     This function make objective column to categories and replace with int8 code
 
     ``` python
+    ### Example
+
     >>> dataframe.info()
     >>> i Name_Column Len Dtype: object
     ...
