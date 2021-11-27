@@ -19,7 +19,7 @@ jobs:
     - name: Check if all notebooks are cleaned
       run: |
         echo "Check we are starting with clean git checkout"
-        if [ -n "$(git status -uno -s)" ]; then echo "git status is not clean"; false; fi
+        if [ -n "$(git status -uno -s)" ]; then echo "git status is not clean\nTry to upgrade your local nbdev, run nbdev_read_nbs and checkout"; false; fi
         echo "Trying to strip out notebooks"
         nbdev_clean_nbs
         echo "Check that strip out was unnecessary"
@@ -27,7 +27,7 @@ jobs:
         if [ -n "$(git status -uno -s)" ]; then echo -e "!!! Detected unstripped out notebooks\n!!!Remember to run nbdev_install_git_hooks"; false; fi
     - name: Check if there is no diff library/notebooks
       run: |
-        if [-n "$(nbdev_diff_nbs)"]; then echo -e "!!! Detected difference between the notebooks and the library"; false; fi
+        if [ -n "$(nbdev_diff_nbs)" ]; then echo -e "!!! Detected difference between the notebooks and the library"; false; fi
     - name: Run tests
       run: |
         nbdev_test_nbs
