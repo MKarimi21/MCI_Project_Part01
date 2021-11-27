@@ -110,3 +110,8 @@ def sampleDF(df, column):
 
     return split_data
 
+
+
+# Cell
+
+from pycaret.classification import *
